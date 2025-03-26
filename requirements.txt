@@ -25,7 +25,6 @@ cleo==2.1.0
 click==8.1.8
 colorama==0.4.4
 comm==0.2.2
-command-not-found==0.3
 contourpy==1.2.1
 crashtest==0.4.1
 cryptography==41.0.7
