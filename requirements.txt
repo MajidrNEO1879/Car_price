@@ -122,7 +122,7 @@ nvidia-cusparselt-cu12==0.6.2
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 oauthlib==3.2.0
-odfpy==1.4.2
+odfpy==1.4.1
 olefile==0.46
 opencv-python==4.9.0.80
 openpyxl==3.0.9
