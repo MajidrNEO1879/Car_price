@@ -215,7 +215,6 @@ websocket-client==1.8.0
 Werkzeug==3.1.3
 widgetsnbextension==4.0.13
 wrapt==1.15.0
-xkit==0.0.0
 xlwt==1.3.0
 yarg==0.1.9
 zipp==3.21.0
