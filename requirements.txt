@@ -159,7 +159,6 @@ PyQt5==5.15.10
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.13.0
 pytest==6.2.5
-python-apt==2.7.5
 python-dateutil==2.9.0.post0
 python-json-logger==3.2.1
 pythran==0.10.0
